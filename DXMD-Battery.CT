@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="38">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"Energy"</Description>
+      <LastState Value="196" Activated="1" RealAddress="199400D58"/>
+      <VariableType>Float</VariableType>
+      <Address>"DXMD.exe"+02F61578</Address>
+      <Offsets>
+        <Offset>128</Offset>
+        <Offset>218</Offset>
+        <Offset>18</Offset>
+        <Offset>38</Offset>
+        <Offset>50</Offset>
+        <Offset>128</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
